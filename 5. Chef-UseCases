@@ -1,5 +1,10 @@
 Chef is capable of delivering value in multiple scenarios. We will discuss the approach for following four use cases
 
+
+
+
+
+
 ```sh
 1. Patching
 2. Server Provisioning
